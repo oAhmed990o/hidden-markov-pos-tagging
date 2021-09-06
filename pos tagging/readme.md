@@ -1,0 +1,1 @@
+hidden Markov model for part of speech tagging done as project for AI nanodegree by udacity
